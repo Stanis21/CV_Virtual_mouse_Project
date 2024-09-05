@@ -19,23 +19,23 @@ To install the dependencies, run:
 
 ```bash
 pip install opencv-python mediapipe pyautogui
-
+```
 Usage
 Clone the repository:
 
-bash
-Copy code
+```bash
 git clone https://github.com/your-username/virtual-mouse.git
+```
 Navigate to the project directory:
 
-bash
-Copy code
+```bash
 cd virtual-mouse
+```
 Run the script:
 
-bash
-Copy code
+```bash
 python Virtual_Mouse.py
+```
 Make sure your webcam is connected and accessible.
 
 How It Works
