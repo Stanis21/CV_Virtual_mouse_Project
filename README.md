@@ -45,5 +45,6 @@ The detected hand gestures are mapped to corresponding mouse movements and actio
 Contributing
 If you'd like to contribute to the project, feel free to submit a pull request or open an issue for discussion.
 
-License
+License:
+
 This project is licensed under the MIT License.
