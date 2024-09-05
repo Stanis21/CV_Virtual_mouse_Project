@@ -24,7 +24,7 @@ Usage
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/virtual-mouse.git
+git clone https://github.com/Stanis21/CV_Virtual_mouse_Project.git
 ```
 Navigate to the project directory:
 
