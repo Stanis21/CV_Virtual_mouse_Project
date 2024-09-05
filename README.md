@@ -34,7 +34,7 @@ cd virtual-mouse
 Run the script:
 
 ```bash
-python Virtual_Mouse.py
+python Virtual Mouse.py
 ```
 Make sure your webcam is connected and accessible.
 
