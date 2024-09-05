@@ -38,7 +38,8 @@ python Virtual_Mouse.py
 ```
 Make sure your webcam is connected and accessible.
 
-How It Works
+How It Works:
+
 The script captures live video feed from the webcam.
 It detects hand landmarks using the Mediapipe library.
 The detected hand gestures are mapped to corresponding mouse movements and actions using PyAutoGUI.
